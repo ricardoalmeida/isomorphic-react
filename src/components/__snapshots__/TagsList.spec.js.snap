@@ -4,12 +4,15 @@ exports[`The tags List renders as expected 1`] = `
 <div>
   <code>
     css
+    !
   </code>
   <code>
     html
+    !
   </code>
   <code>
     go
+    !
   </code>
 </div>
 `;
